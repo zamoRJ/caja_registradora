@@ -62,7 +62,7 @@
   <field name="name">caja_registradora.movimientos.view.tree</field>
   <field name="model">caja_registradora.movimientos</field>
   <field name="arch" type="xml">
-    <tree edit="0" duplicate="0">
+    <tree delete="0" edit="0" duplicate="0">
       <field name="type"/>
       <field name="amount"/>
       <field name="balance"/>
