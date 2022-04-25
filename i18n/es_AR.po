@@ -1,0 +1,127 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* caja_registradora
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0-20220225\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-25 12:46+0000\n"
+"PO-Revision-Date: 2022-04-25 12:46+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: caja_registradora
+#: model:ir.model.fields,field_description:caja_registradora.field_caja_registradora_movimientos__amount
+msgid "Amount"
+msgstr "Monto"
+
+#. module: caja_registradora
+#: model:ir.model.fields,field_description:caja_registradora.field_caja_registradora_movimientos__balance
+msgid "Balance"
+msgstr "Saldo"
+
+#. module: caja_registradora
+#: model:ir.ui.menu,name:caja_registradora.menu_root
+msgid "Caja registradora"
+msgstr "Caja registradora"
+
+#. module: caja_registradora
+#: model:ir.model.fields,field_description:caja_registradora.field_caja_registradora_movimientos__contact
+msgid "Contact"
+msgstr "Contacto"
+
+#. module: caja_registradora
+#: model:ir.model.fields,field_description:caja_registradora.field_caja_registradora_movimientos__create_uid
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: caja_registradora
+#: model:ir.model.fields,field_description:caja_registradora.field_caja_registradora_movimientos__create_date
+msgid "Created on"
+msgstr "Creado en"
+
+#. module: caja_registradora
+#: model:ir.model.fields,field_description:caja_registradora.field_caja_registradora_movimientos__date
+msgid "Creation Date"
+msgstr "Fecha de creación"
+
+#. module: caja_registradora
+#: model:ir.model.fields,help:caja_registradora.field_caja_registradora_movimientos__balance
+msgid "Current balance"
+msgstr "Saldo actual"
+
+#. module: caja_registradora
+#: model:ir.model.fields,field_description:caja_registradora.field_caja_registradora_movimientos__display_name
+msgid "Display Name"
+msgstr "Nombre para mostrar"
+
+#. module: caja_registradora
+#: model:ir.model.fields.selection,name:caja_registradora.selection__caja_registradora_movimientos__type__e
+msgid "Egress"
+msgstr "Salida"
+
+#. module: caja_registradora
+#: model:ir.model.fields.selection,name:caja_registradora.selection__caja_registradora_movimientos__type__i
+msgid "Entry"
+msgstr "Entrada"
+
+#. module: caja_registradora
+#: model:ir.model.fields,field_description:caja_registradora.field_caja_registradora_movimientos__id
+msgid "ID"
+msgstr "ID"
+
+#. module: caja_registradora
+#: model:ir.model.fields,field_description:caja_registradora.field_caja_registradora_movimientos____last_update
+msgid "Last Modified on"
+msgstr "Última modificación el"
+
+#. module: caja_registradora
+#: model:ir.model.fields,field_description:caja_registradora.field_caja_registradora_movimientos__write_uid
+msgid "Last Updated by"
+msgstr "Última actualización por"
+
+#. module: caja_registradora
+#: model:ir.model.fields,field_description:caja_registradora.field_caja_registradora_movimientos__write_date
+msgid "Last Updated on"
+msgstr "Ultima actualización en"
+
+#. module: caja_registradora
+#: model_terms:ir.ui.view,arch_db:caja_registradora.movimientos_form_view
+msgid "Movement Form"
+msgstr "Formulario de movimiento"
+
+#. module: caja_registradora
+#: model_terms:ir.ui.view,arch_db:caja_registradora.movimientos_form_view
+msgid "Movement Information"
+msgstr "Información de movimiento"
+
+#. module: caja_registradora
+#: model:ir.model.fields,field_description:caja_registradora.field_caja_registradora_movimientos__type
+msgid "Movement type"
+msgstr "Tipo de movimiento"
+
+#. module: caja_registradora
+#: model:ir.actions.act_window,name:caja_registradora.movimientos_action_window
+#: model:ir.ui.menu,name:caja_registradora.movimientos_menu
+msgid "Movements"
+msgstr "Movimientos"
+
+#. module: caja_registradora
+#: model_terms:ir.ui.view,arch_db:caja_registradora.movimientos_form_view
+msgid "Please select a type"
+msgstr "Seleccione un tipo"
+
+#. module: caja_registradora
+#: model_terms:ir.ui.view,arch_db:caja_registradora.movimientos_search_view
+msgid "Tipo de Movimiento"
+msgstr "Tipo de Movimiento"
+
+#. module: caja_registradora
+#: model:ir.model,name:caja_registradora.model_caja_registradora_movimientos
+msgid "caja_registradora.movimientos"
+msgstr "caja_registradora.movimientos"
