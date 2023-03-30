@@ -1,2 +1,2 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_caja_registradora_movimientos,caja_registradora.movimientos,model_caja_registradora_movimientos,base.group_user,1,1,1,1
+access_cash_register_moves,cash.register.moves,model_cash_register_moves,base.group_user,1,1,1,1
