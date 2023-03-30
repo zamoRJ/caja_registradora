@@ -18,6 +18,7 @@ Cash Register Moves
     :alt: caja_registradora.git
 
 |badge1| |badge2| |badge3|
+
 Shows the movements made by the contacts, whether they are in/out, and the date on which they were made.
 
 Install
